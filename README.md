@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharathkumar63&show_icons=true&locale=en" alt="sharathkumar63" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathkumar63&" alt="sharathkumar63" /></p>
-<h1>Hii Namrutha</h1>
