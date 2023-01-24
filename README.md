@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **Technical support**
 
 - 📫 How to reach me **sharathkumar.com.in@gmail.com**
 
-- ⚡ Fun fact **I'm a certified chutiya!!**
+- ⚡ Fun fact **I'm a jolly guy!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
