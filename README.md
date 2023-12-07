@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharath Kumar</h1>
-<h3 align="center">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web Development and loving it since.</h3>
+<h3 align="center">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathkumar63&label=Profile%20views&color=0e75b6&style=flat" alt="sharathkumar63" /> </p>
 
